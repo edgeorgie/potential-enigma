@@ -13,6 +13,8 @@ Estudié Tecnología en decoración de espacios en el SENA, terminé en el 2020.
 
 - Andrés Leyva | DB Admin & Developer.
 - Evelyn Penagos | Analyst & Developer.
+Soy estudiante de Ingeniería Electrónica, quiero desempeñarme en el área de la Biomedicina, me interesa la programación y sus aplicaciones en los sistemas o equipos biológicos, y sus demás aplicaciones. Soy perseverante, organizada y creativa en la resolución de problemas, además de curiosa en el aprendizaje, de modo que me gustaría aprender, conocer y desarrollar aplicaciones móviles eficientes y funcionales.
+
 - Brando Carrillo | Developer.
 
 ---
