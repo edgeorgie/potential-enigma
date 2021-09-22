@@ -16,5 +16,5 @@ Me encuentro estudiando Ingeniería Electrónica, entre a esa carrera porque me 
 
 - Evelyn Penagos | Analyst & Developer.
 - Brando Carrillo | Developer.
-
+Soy músico, mi otra pasión, la estudié, pero me gustan las matemáticas, la física y el inglés, soy apasionado, soy soñador, por eso seguí el ejemplo de mi hermano que es programador y a quien le debo parte del ejemplo y mi conocimiento en programación. Nunca quiero para de aprender, también quiero enseñar porque me gusta hacerlo.  Quiero aportar a la calidad de vida de la sociedad consiguiéndolo con pequeños pasos.
 ---
