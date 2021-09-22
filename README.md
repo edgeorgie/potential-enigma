@@ -4,6 +4,8 @@ This is the official repo for our group at MisiónTIC 2022 - UdeA.
 ## Who we are?
 
 - Edwin Jorge | Product Owner & Developer.
+Estudio Ingeniería Electrónica. Me apasiona la programación y el desarrollo/diseño de videojuegos. SOy un entusiasta del autoaprendizaje, me considero también autodidacta. Me gusta ayudar a los demás y compartir mis experiencias.
+
 - Luisa Naranjo | SCRUM Master & Developer.
 Estudié Producción multimedia en el 2013, allí me enamoré de la programación,
 de los algoritmos, del diseño y de las paginas web, desafortunadamente no pude terminar los estudios.
