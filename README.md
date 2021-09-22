@@ -16,5 +16,5 @@ Estudié Tecnología en decoración de espacios en el SENA, terminé en el 2020.
 Soy estudiante de Ingeniería Electrónica, quiero desempeñarme en el área de la Biomedicina, me interesa la programación y sus aplicaciones en los sistemas o equipos biológicos, y sus demás aplicaciones. Soy perseverante, organizada y creativa en la resolución de problemas, además de curiosa en el aprendizaje, de modo que me gustaría aprender, conocer y desarrollar aplicaciones móviles eficientes y funcionales.
 
 - Brando Carrillo | Developer.
-
+Soy músico, mi otra pasión, la estudié, pero me gustan las matemáticas, la física y el inglés, soy apasionado, soy soñador, por eso seguí el ejemplo de mi hermano que es programador y a quien le debo parte del ejemplo y mi conocimiento en programación. Nunca quiero para de aprender, también quiero enseñar porque me gusta hacerlo. Quiero aportar a la calidad de vida de la sociedad consiguiéndolo con pequeños pasos.
 ---
