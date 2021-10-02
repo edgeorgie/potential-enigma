@@ -9,7 +9,7 @@ class Login extends Component {
         }
     };
 
-    submitHandler = () => {
+    button1Handler = () => {
         this.setState( )  /* Conectar con API de Google a la base de datos de gmail */
     }
 
@@ -33,7 +33,7 @@ class Login extends Component {
                 <span>¿Qué deseas hacer?</span>
                 <br></br>
                 <h5 className="h6">Iniciar sesión</h5>
-                <button type="button" className="btn btn-outline-primary btn-sm" onClick={ this.submitHandler }><img src="https://img.icons8.com/cute-clipart/30/000000/google-logo.png" /> INICIAR SESION CON GOOGLE</button>
+                <button type="button" className="btn btn-outline-primary btn-sm" onClick={ this.button1Handler }><img src="https://img.icons8.com/cute-clipart/30/000000/google-logo.png" /> INICIAR SESION CON GOOGLE</button>
                 <div>    
                     <div className="mt-3">
                         <label htmlFor="emailUserField" className="form-label"><img src="https://img.icons8.com/windows/30/000000/gmail.png"/></label>

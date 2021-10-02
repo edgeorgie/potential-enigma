@@ -26,7 +26,8 @@ class User extends React.Component {
 
   };
 
-  /*eliminar = (dato) => {
+  /* Opciones eliminar =>
+    eliminar = (dato) => {
     let option = window.confirm("¿Estás seguro que deseas eliminar éste dato?");
     if (option) {
       let contador = 0;
@@ -40,7 +41,6 @@ class User extends React.Component {
       })
         
       this.setState({data: arregloUsuarios});
-      
     }
       
   };
@@ -118,7 +118,7 @@ class User extends React.Component {
                   <td>{dato.address}</td>
                   <td>{dato.phoneNumber}</td>
                   <td><button type="button" className="btn btn-primary btn-sm">Editar</button>
-                    <button type="button" className="btn btn-danger btn-sm" >Eliminar</button>
+                    <button type="button" className="btn btn-danger btn-sm">Eliminar</button>
                   </td>
                 </tr>
               ))}
