@@ -1,0 +1,221 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Inter', sans-serif;
+  color: #2E384C;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 60px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 60px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 60px;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h6 {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #2E384C;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.footer-text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+main {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 1fr;
+  -ms-grid-columns: (1fr)[2];
+      grid-template: 1fr/repeat(2, 1fr);
+}
+
+main .logo-container {
+  place-self: center;
+}
+
+main .logo-container .logo {
+  width: 400px;
+  height: auto;
+}
+
+main .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  place-self: center;
+  width: 325px;
+  height: 500px;
+  text-align: center;
+  margin: 40px 0;
+}
+
+main .container .login-container {
+  padding: 38px;
+}
+
+main .container .login-container h2, main .container .login-container h5 {
+  margin-bottom: 20px;
+}
+
+main .container .login-container h6 {
+  margin-bottom: 10px;
+}
+
+main .container .login-container button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  padding: 5px 10px;
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #FFFFFF;
+  border: none;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+main .container .login-container button a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .container .login-container button img {
+  width: 32px;
+  height: auto;
+  padding-right: 10px;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  height: 10vh;
+  -webkit-box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.25);
+}
+
+.logo-iniciales {
+  width: 48px;
+  height: auto;
+  padding-left: 75px;
+}
+
+.menu {
+  margin-left: 10vh;
+}
+
+ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+ul li {
+  margin-left: 40px;
+}
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+footer span {
+  background: #6A7FA8;
+  display: block;
+  width: 80%;
+  height: 1px;
+}
+
+footer p {
+  margin: 10px;
+  color: #6A7FA8;
+}
+/*# sourceMappingURL=main.css.map */
